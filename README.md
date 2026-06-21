@@ -52,7 +52,7 @@ Abran su terminal (o la consola integrada de VS Code) y descarguen el repositori
 
 ```bash
 git clone [https://github.com/pablotf16/Demo_BioForesta_App.git](https://github.com/pablotf16/Demo_BioForesta_App.git)
-
+```
 ### Paso 3: Entrar a la carpeta del proyecto
 Es vital navegar hacia la carpeta que acabamos de descargar antes de ejecutar cualquier otro comando. Escriban:
 
