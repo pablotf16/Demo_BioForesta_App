@@ -1,0 +1,46 @@
+{
+  "hash": "d1291356",
+  "configHash": "7a9d364c",
+  "lockfileHash": "e3f49e1f",
+  "browserHash": "bb966d6d",
+  "optimized": {
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "9891aba8",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "38ebbe15",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "0c066254",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "2a002af0",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "270eaedd",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-V3WDVI7Y": {
+      "file": "chunk-V3WDVI7Y.js"
+    },
+    "chunk-3TXWM623": {
+      "file": "chunk-3TXWM623.js"
+    }
+  }
+}
